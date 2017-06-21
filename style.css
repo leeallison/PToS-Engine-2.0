@@ -1,1 +1,22 @@
 /* CSS Document */
+
+/* Define overall body settings */
+body 
+  {
+    background-color: #3374a3;
+  }
+
+
+/* Define Card_Table header, basic table settings */
+table.Card_Table
+  { border-collapse: collapse;
+    border: 1px solid #839E99;
+    background: white; 
+    font: .9em/1.2em Georgia, "Times New Roman", Times, serif; 
+    color: #033; 
+    width: 50%;
+  }
+  
+  /* Define Card_Table row and column settings */
+  .Card_Table tr:hover {background-color: #f5f5f5}
+  

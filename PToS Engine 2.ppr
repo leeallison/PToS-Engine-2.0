@@ -1,0 +1,37 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+DefaultDir=G:\Users\Lee\Documents\SumoSoftStudios\PToS Engine 2.0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+Extensions=*.*
+[Project tree]
+PToS Engine 2
+	+PToS Engine 2
+		engine.php
+		index.php
+		style.css
+[Open project files]
+0=index.php
+1=style.css
+2=engine.php
+[Selected Project Files]
+Main=
+Selected=engine.php
+[index.php]
+TopLine=1
+Caret=11,15
+[style.css]
+TopLine=1
+Caret=3,22
+[engine.php]
+TopLine=1
+Caret=17,30
