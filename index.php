@@ -10,13 +10,218 @@
 
 <table class="Card_Table">
   <tr>
-    <th>PO</th>
-    <th>DT</th> 
-    <th>SM</th>
+    <th>1</th>
+    <th>2</th> 
+    <th>3</th>
   </tr>
   <tr>
-    <td><?php Get_Card(1) ?></td>
-    <td><?php Get_Card(2) ?></td> 
-    <td><?php Get_Card(3) ?></td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+  </tr>
+  <tr>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+  </tr>
+  <tr>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+  </tr>
+  <tr>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+  </tr>
+  <tr>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
+    <td><?php 
+          $x = rand(1,3);
+          Get_Card($x); 
+        ?>
+    </td>
   </tr>
 </table>
