@@ -1,0 +1,66 @@
+/* CSS Document */
+
+/* Define overall body settings */
+body 
+  {
+    background-color: #3374a3;
+  }
+
+
+/* Define Card_Table header, basic table settings */
+table.Card_Table
+  { border-collapse: collapse;
+    border: 1px solid #839E99;
+    background: white; 
+    font: .9em/1.2em Georgia, "Times New Roman", Times, serif; 
+    color: #033; 
+    width: 75%;
+  }
+  
+  /* Define Card_Table row and column settings */
+  .Card_Table tr:hover {background-color: #f5f5f5}
+  
+  
+.card-grid {
+	width: 115px;
+	min-height: 200px;
+    float: left;
+    margin-right: 35px;
+}
+
+.front {
+    background: #d2d2d2;
+    border: 1px solid #eee;
+    padding: 10px;
+}
+.back {
+    background: #d2d2d2;
+    border: 1px solid #eee;
+    padding: 10px;
+}
+.btn-primary {
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    color: #fff;
+}
+.btn-primary:hover {
+    background-color: #286090;
+    border-color: #204d74;
+    color: #fff;
+}
+.btn {
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857;
+    margin-bottom: 0;
+    padding: 6px 12px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
